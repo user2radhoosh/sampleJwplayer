@@ -1,0 +1,3 @@
+rootProject.name = 'RNTBridgingDemo'
+
+include ':app'

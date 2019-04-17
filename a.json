@@ -1,0 +1,45 @@
+{
+    "playlist": [
+        {
+            "title": "Optus Sport 1",
+            "image": "https://image-service.ha.optus-third.vimondtv.com/api/v2/img/5c7c9e3ee4b0c39c0c37acb6",
+            "description": "Watch football 24/7 on Optus Sport 1.",
+            "mediaid": "42463",
+            "sources": [
+                {
+                    "file": "https://epllinearcdn.optusnet.com.au/v1/OptusSport1/pri/drm/avc/manifest.m3u8",
+                    "drm": {
+                        "fairplay": {
+                            "certificateUrl": "https://infinit.blob.core.windows.net/fairplay/fairplayDER.cer",
+                            "processSpcUrl": "https://drm-fairplay-licensing.axprod.net/AcquireLicense",
+                            "licenseRequestHeaders": [
+                                {
+                                    "name": "X-AxDRM-Message",
+                                    "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2ZXJzaW9uIjoxLCJjb21fa2V5X2lkIjoiM0NEMkY3QjEtQzNBOC00MjJBLTk0OTctQTdCNzAwN0Q3RkI1IiwibWVzc2FnZSI6eyJ0eXBlIjoiZW50aXRsZW1lbnRfbWVzc2FnZSIsImtleXMiOlt7ImlkIjoiMDNCNDdDOEUtNUJERi00MUNCLUJCRUYtMjlCRTZBMThERTlFIiwiaXYiOiJlMkxtNFJwUzV6Zm4zbzUveVlqTVZRPT0ifV19LCJleHBpcmF0aW9uX2RhdGUiOiIyMDE5LTA0LTE2VDA4OjQyOjAwLjMxNVoiLCJ1c2VySWQiOiIxNTIxMTMyIn0.0Om76-1x1sy4IEU4s700VChPxR96Bat9EaYYXPzfCS8"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "file": "https://epllinearcdn.optusnet.com.au/__cl/default/__c/OS1/__op/axfp/__f/manifest.m3u8",
+                    "drm": {
+                        "fairplay": {
+                            "certificateUrl": "https://infinit.blob.core.windows.net/fairplay/fairplayDER.cer",
+                            "processSpcUrl": "https://drm-fairplay-licensing.axprod.net/AcquireLicense",
+                            "licenseRequestHeaders": [
+                                {
+                                    "name": "X-AxDRM-Message",
+                                    "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2ZXJzaW9uIjoxLCJjb21fa2V5X2lkIjoiM0NEMkY3QjEtQzNBOC00MjJBLTk0OTctQTdCNzAwN0Q3RkI1IiwibWVzc2FnZSI6eyJ0eXBlIjoiZW50aXRsZW1lbnRfbWVzc2FnZSIsImtleXMiOlt7ImlkIjoiZDY3YTE2Y2QtYTY5NS01ZGU0LTk5N2YtYWUyNDZjY2YwNWVhIiwiaXYiOiJlMkxtNFJwUzV6Zm4zbzUveVlqTVZRPT0ifV19LCJleHBpcmF0aW9uX2RhdGUiOiIyMDE5LTA0LTE2VDA4OjQyOjAwLjMxNloiLCJ1c2VySWQiOiIxNTIxMTMyIn0.9N8Lvwjn-2WeWCB_sVKTF-UgNzQrzwyATFzjuXZ5aVI"
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    ],
+    "cast": {},
+    "autostart": "viewable",
+    "preload": "auto"
+}

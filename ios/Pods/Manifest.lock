@@ -1,0 +1,16 @@
+PODS:
+  - JWPlayer-SDK (3.2.4)
+
+DEPENDENCIES:
+  - JWPlayer-SDK (~> 3.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - JWPlayer-SDK
+
+SPEC CHECKSUMS:
+  JWPlayer-SDK: 38a87a96dc9ccc356e76801fe14de749cf26e75a
+
+PODFILE CHECKSUM: d8673bad3c28eb3e9f8d9214d34124c0bd453548
+
+COCOAPODS: 1.5.3
